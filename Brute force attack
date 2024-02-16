@@ -1,0 +1,29 @@
+Brute force attack
+
+brute force attack is a type of hacking technique used to find out the user credentials by trying various possible credentials
+
+- type of guessing the credentials
+
+- trail and error attacker may try the credentials many times
+
+- having username and password list
+
+tools used for brute force attack are Metasploit, John the ripper, Air crackng and HYDRA
+
+
+- List of username and passwords are feeded into brute force tools 
+
+- brute force tools will send these user name and passwords to application 
+
+- at the application usernames and passwords are authenticated and response is generated whether the authentication is failure or successful
+
+- depending upon the response the credentials are determined correct or wrong
+
+Prevention 
+
+- Increasing password length
+- Increasing password complexity
+- Limit login attments (such as blocking the account for more 3 or more failure login attempts)
+- Use OTPs
+- Use Captcha
+- using 2FA
